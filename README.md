@@ -33,6 +33,7 @@ Built with **Java Spring Boot** for backend API integration and **Flutter** for 
 
 ## 📫 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-arenas-del-amo-798598209/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-arenas-del-amo-798598209) 
 
 
 ## 💰 You can help me by Donating
