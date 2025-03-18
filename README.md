@@ -31,8 +31,7 @@ I have developed **GridView**, a comprehensive application that provides **detai
 Built with **Java Spring Boot** for backend API integration and **Flutter** for the frontend, **GridView** aims to offer an **in-depth experience for F1 enthusiasts**.
 
 
-## 📫 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/sergio-arenas-del-amo-798598209/)
+## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-arenas-del-amo-798598209) 
 
 
