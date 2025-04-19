@@ -26,6 +26,8 @@ I have developed **GridView**, a comprehensive application that provides **detai
 
 Built with **Java Spring Boot** for backend API integration and **Flutter** for the frontend, **GridView** aims to offer an **in-depth experience for F1 enthusiasts**.
 
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.sejuma.gridview)
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-arenas-del-amo-798598209) 
 
