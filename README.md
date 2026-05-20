@@ -93,10 +93,11 @@ Offline-first Android app for recording archaeological excavation data directly 
 
 ## 📚 Scientific Publications
 
-Co-author of scientific work focused on Upper Palaeolithic human remains, osteological evidence and pathological patterns.
+Co-author of peer-reviewed scientific work on Upper Palaeolithic human remains, dental anthropology and Late Glacial hunter-gatherer populations.
 
-📄 Overview of the European Upper Palaeolithic Human Bone Record  
-📄 Odontological and Pathological Patterns at Balma Guilanyà  
+📄 Arenas del Amo, S., Armentano Oller, N., Daura, J., & Sanz Borràs, M. (2024). *Overview of the European Upper Palaeolithic: the Homo sapiens bone record*. Journal of Archaeological Science: Reports, 53, Article 104391. [https://doi.org/10.1016/j.jasrep.2024.104391](https://doi.org/10.1016/j.jasrep.2024.104391) 
+
+📄 Arenas del Amo, S., López, J. L., Martínez-Moreno, J., & Mora Torcal, R. (2024). *Odontological, pathological and contextual patterns of the Late Glacial human tooth assemblage from Level E at Balma Guilanyà (south-eastern Pyrenees, Iberian Peninsula)*. Archaeological and Anthropological Sciences, 16, Article 147. [https://doi.org/10.1007/s12520-024-02021-5](https://doi.org/10.1007/s12520-024-02021-5) 
 
 ---
 
