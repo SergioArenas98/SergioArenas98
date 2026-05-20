@@ -1,187 +1,145 @@
-# Hi, I'm Sergio Arenas
+# 👋 Hi, I'm Sergio Arenas
 
-Backend and mobile developer with a background in archaeology, biological anthropology and scientific documentation. I build software that connects structured data, research workflows and practical applications - from REST APIs and relational databases to Flutter mobile apps and digital platforms for archaeological and scientific use.
+Backend & mobile developer with a background in archaeology, biological anthropology and scientific data workflows. Currently based in Ireland, building backend services, mobile apps and research-oriented digital tools with Java, Spring Boot, PHP, Laravel, Flutter and SQL.
 
-I am currently based in Ireland, working with archaeological data, technical documentation and GIS workflows, while focusing my software career on backend development, mobile-connected systems and data-driven tools.
+I come from archaeology and human osteology, where I worked with structured records, scientific documentation, GIS and complex datasets. Now I apply that same mindset to software: clean data models, reliable APIs, useful interfaces and tools that solve real workflow problems.
 
-My work sits at the intersection of software engineering, heritage research and applied data systems. I like building things that are useful, structured and maintainable.
+I'm especially interested in backend development, mobile-connected systems, digital archaeology, research platforms, automation and data-driven applications.
 
-## About Me
+---
 
-I originally trained in archaeology and human osteology, with experience in research, fieldwork, databases and technical reporting. That background shaped how I approach software: I care about data quality, clear structures, traceability and tools that solve real workflow problems.
+## 🤔 About Me
 
-After transitioning into software development through a Higher Technician qualification in Multiplatform Application Development, I worked on backend and mobile systems using Java, Spring Boot, PHP, Laravel, SQL and Flutter.
+Software developer with an unusual path: archaeology, biological anthropology, GIS, scientific publications and now backend/mobile development.
 
-At Nexia Apps, I developed backend services and REST API functionality for mobile applications, built backend logic connected to relational databases, contributed to cross-platform mobile development and automated server-side workflows with Bash scripts.
+I have professional experience developing REST APIs, backend logic and mobile-connected systems using Java Spring Boot, PHP Laravel, Flutter, React Native and relational databases. I also have experience managing archaeological databases, writing technical documentation and working with spatial data through ArcGIS and QGIS.
 
-I am especially interested in:
+My goal is to build software that connects research, data and practical use cases - especially tools for science, archaeology, heritage, fieldwork and structured information systems.
 
-- Backend development with Java, Spring Boot, PHP and Laravel
-- REST APIs and database-backed applications
-- Mobile apps connected to backend services
-- Scientific, archaeological and research-oriented digital platforms
-- Data modelling, automation and technical documentation
-- GIS, spatial data and structured field recording tools
+Currently focused on backend-oriented roles and projects involving Java, Spring Boot, PHP, Laravel, SQL, REST APIs and mobile integrations.
 
-## Highlights
+---
 
-### Software and Development
+## 🏆 Highlights
 
-- Built backend services and REST API functionality for mobile applications using Java Spring Boot and PHP Laravel.
-- Developed mobile-connected systems with Flutter, Dart and relational databases.
-- Designed and managed MySQL and PostgreSQL databases for structured data retrieval and maintenance.
-- Automated deployment and server-side workflows with custom Bash scripting.
-- Worked across backend, mobile, database and documentation layers in production-focused environments.
+### 💻 Software Development
 
-### Archaeology, Data and Research
+🥇 Built backend services and REST API functionality for production-focused mobile applications at Nexia Apps  
+📱 Developed cross-platform mobile features using Flutter and React Native  
+🗄️ Designed and managed relational databases with MySQL, PostgreSQL and SQLite  
+⚙️ Automated deployment and server-side workflows with custom Bash scripting  
+🔗 Worked across backend, mobile, database and documentation layers  
+🚀 Released GridView, a Formula 1 mobile app available on Google Play  
+🏛️ Built PaleoHumans, a scientific platform for Upper Palaeolithic human remains  
+🧱 Developed ContextLog, an offline-first archaeological field recording app  
 
-- Managed archaeological databases for inventory processing, data accessibility and documentation.
-- Used ArcGIS and QGIS to analyse and visualise complex spatial datasets.
-- Authored detailed technical reports and documentation for archaeological projects.
-- Co-authored scientific publications on Upper Palaeolithic human remains.
-- Built digital tools focused on archaeological recording, osteological data and research workflows.
+### 🦴 Archaeology, Research & Data
 
-## Projects
+📚 Co-authored two scientific publications on Upper Palaeolithic human remains  
+🗺️ Used ArcGIS and QGIS to analyse and visualise complex spatial datasets  
+🧾 Produced detailed technical documentation and archaeological reports  
+🏺 Managed archaeological inventories and structured databases  
+🔬 Background in biological anthropology, human osteology and prehistoric archaeology  
 
-### PaleoHumans - Digital Platform for Upper Palaeolithic Human Remains
+---
 
-Full-stack scientific platform for exploring European Upper Palaeolithic Homo sapiens remains.
+## 🚀 Main Projects
 
-Tech: Java, Spring Boot, REST APIs, PostgreSQL, Angular SSR, TypeScript
+### 🏛️ PaleoHumans - Digital Platform for Upper Palaeolithic Human Remains
+
+Scientific full-stack platform for exploring European Upper Palaeolithic Homo sapiens remains.
+
+**Tech:** Java · Spring Boot · REST APIs · PostgreSQL · Angular SSR · TypeScript
 
 - Designed structured data models for archaeological, osteological, chronological and bibliographic records.
-- Built public research features including interactive maps, timelines, advanced filters and dataset export.
-- Developed an admin backoffice with CRUD workflows and relational data management.
+- Built public research tools including interactive maps, timelines, advanced filters and dataset export.
+- Created an admin backoffice with CRUD workflows and relational database maintenance.
 - Focused on making complex archaeological information easier to explore, maintain and reuse.
 
-Website: paleohumans.org
+🌐 Website -> [paleohumans.org](https://www.paleohumans.org)
 
-### GridView - Formula 1 Mobile App
+---
 
-Mobile application for Formula 1 data, statistics, standings and race information.
+### 🏎️ GridView - Formula 1 Mobile App
 
-Tech: Flutter, Dart, Java, Spring Boot, REST APIs, MySQL
+Mobile application for Formula 1 data, race results, standings, calendars and statistics.
 
-- Developed a Flutter mobile app to display real-time Formula 1 data, race results and championship information.
-- Built a Spring Boot backend exposing REST API endpoints for app communication.
-- Designed and managed a MySQL relational database for efficient retrieval and organisation of racing data.
-- Worked across the full lifecycle, from implementation to release.
+**Tech:** Flutter · Dart · Java · Spring Boot · REST APIs · MySQL
 
-Available on Google Play.
+- Developed a Flutter mobile app to display Formula 1 information in a clear and structured way.
+- Built a Spring Boot backend exposing REST API endpoints for mobile communication.
+- Designed and managed a MySQL database for racing data, statistics and championship information.
+- Worked across the full development lifecycle, from implementation to release.
 
-### ContextLog - Offline Archaeological Field Recording App
+📲 Available on [Google Play](https://play.google.com/store/apps/details?id=com.sejuma.gridview)
+
+---
+
+### ⛏️ ContextLog - Offline Archaeological Field Recording App
 
 Offline-first Android app for recording archaeological excavation data directly on site.
 
-Tech: Flutter, Dart, Drift, SQLite, Riverpod, GoRouter, Freezed
+**Tech:** Flutter · Dart · Drift · SQLite · Riverpod · GoRouter · Freezed
 
 - Built structured workflows for projects, features, cuts, fills, finds, samples, photos, drawings and Harris Matrix relations.
 - Implemented local SQLite persistence with Drift.
 - Used Riverpod for state management and GoRouter for navigation.
-- Added validation logic to reduce recording errors and preserve archaeological data integrity.
-- Designed for field conditions where connectivity is limited or unavailable.
+- Added validation logic to reduce recording mistakes and preserve archaeological data integrity.
+- Designed for real fieldwork contexts where internet connection may be limited or unavailable.
 
-Google Play release in progress.
+📲 Google Play release in progress
 
-## Professional Experience
+---
 
-### Archaeological Technician - Rubicon Archaeology
+## 📚 Scientific Publications
 
-Ireland - Jun 2025 to Present
+Co-author of scientific work focused on Upper Palaeolithic human remains, osteological evidence and pathological patterns.
 
-- Manage databases for the processing and inventory of archaeological materials.
-- Produce technical documentation and reports for large-scale projects.
-- Use ArcGIS and QGIS to analyse and visualise spatial datasets.
+📄 Overview of the European Upper Palaeolithic Human Bone Record  
+📄 Odontological and Pathological Patterns at Balma Guilanyà  
 
-### Backend and Mobile Developer - Nexia Apps
+---
 
-Barcelona - Sep 2024 to Jun 2025
+## 🔬 Currently working on
 
-- Developed backend services and REST API functionality using Java Spring Boot and PHP Laravel.
-- Built backend logic connecting mobile frontends, APIs and relational databases.
-- Contributed to mobile development for iOS and Android using Flutter and React Native.
-- Automated deployment and server-side workflows with Bash.
-- Collaborated on production-focused backend and mobile implementation.
+🏛️ PaleoHumans - expanding a research platform for Upper Palaeolithic human remains  
+⛏️ ContextLog - preparing an offline archaeological recording app for Google Play release  
+🏎️ GridView - improving Formula 1 data features and mobile experience 
 
-### Archaeological Technician - Self-Employed
+---
 
-Barcelona - Jun 2022 to Sep 2023
+## 🛠️ Stack
 
-- Designed and maintained relational databases for archaeological inventories.
-- Applied GIS techniques for spatial analysis and data visualisation.
-- Authored technical documentation for archaeological findings and methodologies.
+### 💻 Backend
 
-### Logistics and Customer Service - IKEA
+Java · Spring Boot · PHP · Laravel · REST APIs · SQL · MySQL · PostgreSQL · Bash · Python · Node.js
 
-Barcelona - May 2017 to Jun 2022
+### 📱 Frontend & Mobile
 
-- Implemented a new PDA and digital workflow system to improve logistics efficiency.
-- Managed inventory data and supported stock optimisation through analysis.
+Flutter · Dart · Angular · Kotlin · Jetpack Compose · React Native · JavaScript · HTML5 · CSS
 
-## Education
+### 🗄️ Databases & Data
 
-### Higher Technician in Multiplatform Application Development
+MySQL · PostgreSQL · SQLite · Drift · Relational Data Modelling · Structured Datasets
 
-STUCOM Barcelona - 2025
+### 🧰 Tools
 
-Focused on software development, backend systems, mobile applications and database-driven projects.
+Git · GitHub · GitLab · VS Code · Eclipse · Figma · Adobe Photoshop · Gimp
 
-### Master's Degree in Biological Anthropology
+### 🗺️ GIS & Research
 
-University of Barcelona - 2021
+ArcGIS · QGIS · Archaeological Databases · Technical Documentation · Scientific Data Workflows
 
-Specialised in human diversity, osteology and biomedical applications.
+---
 
-### Bachelor's Degree in Archaeology
+## 🌍 Languages
 
-Autonomous University of Barcelona - 2020
+🇪🇸 Spanish - Native  
+🇨🇦 Catalan - Native  
+🇬🇧 English - Professional working proficiency  
 
-Specialised in Prehistoric Archaeology.
+---
 
-## Scientific Publications
+## 📫 Connect
 
-I have co-authored scientific work on Upper Palaeolithic human remains, with a focus on osteological, odontological and pathological evidence.
-
-- Overview of the European Upper Palaeolithic Human Bone Record
-- Odontological and Pathological Patterns at Balma Guilanyà
-
-## Stack
-
-### Backend
-
-Java, Spring Boot, PHP, Laravel, REST APIs, SQL, MySQL, PostgreSQL, Bash, Python, Node.js
-
-### Frontend and Mobile
-
-Flutter, Dart, Angular, Kotlin, Jetpack Compose, React Native, JavaScript, HTML, CSS
-
-### Databases and Data
-
-MySQL, PostgreSQL, SQLite, Drift, relational data modelling, structured datasets
-
-### Tools
-
-Git, GitHub, GitLab, VS Code, Eclipse, Figma, Adobe Photoshop, Gimp
-
-### GIS and Research Tools
-
-ArcGIS, QGIS, archaeological databases, technical documentation, scientific data workflows
-
-## Languages
-
-- Spanish - Native
-- Catalan - Native
-- English - Professional working proficiency
-
-## Currently working on
-
-- Backend-focused roles and projects using Java, Spring Boot, PHP, Laravel and SQL.
-- PaleoHumans, a digital research platform for Upper Palaeolithic human remains.
-- ContextLog, an offline-first archaeological recording app for Android.
-- Improving my portfolio around backend systems, mobile apps and research-oriented software tools.
-
-## Connect
-
-LinkedIn -> Sergio Arenas  
-GitHub -> @sejuma18  
-Portfolio / Projects -> PaleoHumans, GridView, ContextLog
+LinkedIn -> [Sergio Arenas](https://www.linkedin.com/in/sergio-arenas-del-amo-798598209/)
