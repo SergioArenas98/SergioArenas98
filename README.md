@@ -1,46 +1,187 @@
-# 👋 Hi, I'm Sergio Arenas 
+# Hi, I'm Sergio Arenas
 
+Backend and mobile developer with a background in archaeology, biological anthropology and scientific documentation. I build software that connects structured data, research workflows and practical applications - from REST APIs and relational databases to Flutter mobile apps and digital platforms for archaeological and scientific use.
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+I am currently based in Ireland, working with archaeological data, technical documentation and GIS workflows, while focusing my software career on backend development, mobile-connected systems and data-driven tools.
 
-## 🤔 About Me  
-I am a **software developer in training** with a background in **archaeology and human osteology**, currently transitioning into the world of **web and software development**. My goal is to merge my research skills with programming to explore innovative solutions in data analysis, digital tools for research, and automation.
+My work sits at the intersection of software engineering, heritage research and applied data systems. I like building things that are useful, structured and maintainable.
 
-## 🎓 Education  
-- **Higher Technician in Multiplatform Application Development (DAM)** – STUCOM (2023-2025)  
-- **Master's in Biological Anthropology (Human Diversity & Biomedical Applications)** – University of Barcelona (2020-2021)  
-- **Bachelor's in Archaeology (Prehistoric Archaeology Specialisation)** – Autonomous University of Barcelona (2016-2020)
+## About Me
 
-## 📚 Scientific Publications  
-I have co-authored two scientific articles on **Upper Palaeolithic human remains**:  
-- 📄 [*Overview of the European Upper Palaeolithic Human Bone Record*](https://www.sciencedirect.com/science/article/pii/S2352409X24000191?via%3Dihub)
-- 📄 [*Odontological and Pathological Patterns at Balma Guilanyà*](https://link.springer.com/article/10.1007/s12520-024-02021-5)
+I originally trained in archaeology and human osteology, with experience in research, fieldwork, databases and technical reporting. That background shaped how I approach software: I care about data quality, clear structures, traceability and tools that solve real workflow problems.
 
-## 🏎️ GridView – My Formula 1 App  
-I have developed **GridView**, a comprehensive application that provides **detailed data and insights** about **Formula 1**. The app retrieves and displays real-time F1 information, including:  
+After transitioning into software development through a Higher Technician qualification in Multiplatform Application Development, I worked on backend and mobile systems using Java, Spring Boot, PHP, Laravel, SQL and Flutter.
 
-- **Driver and team statistics**  
-- **Race results and standings**  
-- **Full calendar, schedules, and weather conditions**  
-- **Data on the championship circuits**  
+At Nexia Apps, I developed backend services and REST API functionality for mobile applications, built backend logic connected to relational databases, contributed to cross-platform mobile development and automated server-side workflows with Bash scripts.
 
-Built with **Java Spring Boot** for backend API integration and **Flutter** for the frontend, **GridView** aims to offer an **in-depth experience for F1 enthusiasts**.
+I am especially interested in:
 
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.sejuma.gridview)
+- Backend development with Java, Spring Boot, PHP and Laravel
+- REST APIs and database-backed applications
+- Mobile apps connected to backend services
+- Scientific, archaeological and research-oriented digital platforms
+- Data modelling, automation and technical documentation
+- GIS, spatial data and structured field recording tools
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-arenas-del-amo-798598209) 
+## Highlights
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/GridView) 
+### Software and Development
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SergioArenas98&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SergioArenas98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioArenas98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- Built backend services and REST API functionality for mobile applications using Java Spring Boot and PHP Laravel.
+- Developed mobile-connected systems with Flutter, Dart and relational databases.
+- Designed and managed MySQL and PostgreSQL databases for structured data retrieval and maintenance.
+- Automated deployment and server-side workflows with custom Bash scripting.
+- Worked across backend, mobile, database and documentation layers in production-focused environments.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SergioArenas98&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### Archaeology, Data and Research
 
----
-[![](https://visitcount.itsvg.in/api?id=SergioArenas98&icon=0&color=8)](https://visitcount.itsvg.in)
+- Managed archaeological databases for inventory processing, data accessibility and documentation.
+- Used ArcGIS and QGIS to analyse and visualise complex spatial datasets.
+- Authored detailed technical reports and documentation for archaeological projects.
+- Co-authored scientific publications on Upper Palaeolithic human remains.
+- Built digital tools focused on archaeological recording, osteological data and research workflows.
+
+## Projects
+
+### PaleoHumans - Digital Platform for Upper Palaeolithic Human Remains
+
+Full-stack scientific platform for exploring European Upper Palaeolithic Homo sapiens remains.
+
+Tech: Java, Spring Boot, REST APIs, PostgreSQL, Angular SSR, TypeScript
+
+- Designed structured data models for archaeological, osteological, chronological and bibliographic records.
+- Built public research features including interactive maps, timelines, advanced filters and dataset export.
+- Developed an admin backoffice with CRUD workflows and relational data management.
+- Focused on making complex archaeological information easier to explore, maintain and reuse.
+
+Website: paleohumans.org
+
+### GridView - Formula 1 Mobile App
+
+Mobile application for Formula 1 data, statistics, standings and race information.
+
+Tech: Flutter, Dart, Java, Spring Boot, REST APIs, MySQL
+
+- Developed a Flutter mobile app to display real-time Formula 1 data, race results and championship information.
+- Built a Spring Boot backend exposing REST API endpoints for app communication.
+- Designed and managed a MySQL relational database for efficient retrieval and organisation of racing data.
+- Worked across the full lifecycle, from implementation to release.
+
+Available on Google Play.
+
+### ContextLog - Offline Archaeological Field Recording App
+
+Offline-first Android app for recording archaeological excavation data directly on site.
+
+Tech: Flutter, Dart, Drift, SQLite, Riverpod, GoRouter, Freezed
+
+- Built structured workflows for projects, features, cuts, fills, finds, samples, photos, drawings and Harris Matrix relations.
+- Implemented local SQLite persistence with Drift.
+- Used Riverpod for state management and GoRouter for navigation.
+- Added validation logic to reduce recording errors and preserve archaeological data integrity.
+- Designed for field conditions where connectivity is limited or unavailable.
+
+Google Play release in progress.
+
+## Professional Experience
+
+### Archaeological Technician - Rubicon Archaeology
+
+Ireland - Jun 2025 to Present
+
+- Manage databases for the processing and inventory of archaeological materials.
+- Produce technical documentation and reports for large-scale projects.
+- Use ArcGIS and QGIS to analyse and visualise spatial datasets.
+
+### Backend and Mobile Developer - Nexia Apps
+
+Barcelona - Sep 2024 to Jun 2025
+
+- Developed backend services and REST API functionality using Java Spring Boot and PHP Laravel.
+- Built backend logic connecting mobile frontends, APIs and relational databases.
+- Contributed to mobile development for iOS and Android using Flutter and React Native.
+- Automated deployment and server-side workflows with Bash.
+- Collaborated on production-focused backend and mobile implementation.
+
+### Archaeological Technician - Self-Employed
+
+Barcelona - Jun 2022 to Sep 2023
+
+- Designed and maintained relational databases for archaeological inventories.
+- Applied GIS techniques for spatial analysis and data visualisation.
+- Authored technical documentation for archaeological findings and methodologies.
+
+### Logistics and Customer Service - IKEA
+
+Barcelona - May 2017 to Jun 2022
+
+- Implemented a new PDA and digital workflow system to improve logistics efficiency.
+- Managed inventory data and supported stock optimisation through analysis.
+
+## Education
+
+### Higher Technician in Multiplatform Application Development
+
+STUCOM Barcelona - 2025
+
+Focused on software development, backend systems, mobile applications and database-driven projects.
+
+### Master's Degree in Biological Anthropology
+
+University of Barcelona - 2021
+
+Specialised in human diversity, osteology and biomedical applications.
+
+### Bachelor's Degree in Archaeology
+
+Autonomous University of Barcelona - 2020
+
+Specialised in Prehistoric Archaeology.
+
+## Scientific Publications
+
+I have co-authored scientific work on Upper Palaeolithic human remains, with a focus on osteological, odontological and pathological evidence.
+
+- Overview of the European Upper Palaeolithic Human Bone Record
+- Odontological and Pathological Patterns at Balma Guilanyà
+
+## Stack
+
+### Backend
+
+Java, Spring Boot, PHP, Laravel, REST APIs, SQL, MySQL, PostgreSQL, Bash, Python, Node.js
+
+### Frontend and Mobile
+
+Flutter, Dart, Angular, Kotlin, Jetpack Compose, React Native, JavaScript, HTML, CSS
+
+### Databases and Data
+
+MySQL, PostgreSQL, SQLite, Drift, relational data modelling, structured datasets
+
+### Tools
+
+Git, GitHub, GitLab, VS Code, Eclipse, Figma, Adobe Photoshop, Gimp
+
+### GIS and Research Tools
+
+ArcGIS, QGIS, archaeological databases, technical documentation, scientific data workflows
+
+## Languages
+
+- Spanish - Native
+- Catalan - Native
+- English - Professional working proficiency
+
+## Currently working on
+
+- Backend-focused roles and projects using Java, Spring Boot, PHP, Laravel and SQL.
+- PaleoHumans, a digital research platform for Upper Palaeolithic human remains.
+- ContextLog, an offline-first archaeological recording app for Android.
+- Improving my portfolio around backend systems, mobile apps and research-oriented software tools.
+
+## Connect
+
+LinkedIn -> Sergio Arenas  
+GitHub -> @sejuma18  
+Portfolio / Projects -> PaleoHumans, GridView, ContextLog
