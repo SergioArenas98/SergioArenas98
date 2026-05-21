@@ -136,8 +136,8 @@ ArcGIS · QGIS · Archaeological Databases · Technical Documentation · Scienti
 ## 🌍 Languages
 
 🇪🇸 Spanish - Native  
-🇨🇦 Catalan - Native  
 🇬🇧 English - Professional working proficiency  
+🟨🟥 Catalan - Native  
 
 ---
 
