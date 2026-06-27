@@ -35,7 +35,7 @@ Scientific full-stack platform for exploring European Upper Palaeolithic Homo sa
 
 🌐 Website -> [paleohumans.org](https://www.paleohumans.org)
 
-
+---
 
 ### 🏎️ GridView - Formula 1 Mobile App
 
@@ -50,7 +50,7 @@ Mobile application for Formula 1 data, race results, standings, calendars and st
 
 📲 Available on [Google Play](https://play.google.com/store/apps/details?id=com.sejuma.gridview)
 
---
+---
 
 ### ⛏️ ContextLog - Offline Archaeological Field Recording App
 
