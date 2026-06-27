@@ -20,29 +20,6 @@ Currently focused on backend-oriented roles and projects involving Java, Spring 
 
 ---
 
-## 🏆 Highlights
-
-### 💻 Software Development
-
-🥇 Built backend services and REST API functionality for production-focused mobile applications at Nexia Apps  
-📱 Developed cross-platform mobile features using Flutter and React Native  
-🗄️ Designed and managed relational databases with MySQL, PostgreSQL and SQLite  
-⚙️ Automated deployment and server-side workflows with custom Bash scripting  
-🔗 Worked across backend, mobile, database and documentation layers  
-🚀 Released GridView, a Formula 1 mobile app available on Google Play  
-🏛️ Built PaleoHumans, a scientific platform for Upper Palaeolithic human remains  
-🧱 Developed ContextLog, an offline-first archaeological field recording app  
-
-### 🦴 Archaeology, Research & Data
-
-📚 Co-authored two scientific publications on Upper Palaeolithic human remains  
-🗺️ Used ArcGIS and QGIS to analyse and visualise complex spatial datasets  
-🧾 Produced detailed technical documentation and archaeological reports  
-🏺 Managed archaeological inventories and structured databases  
-🔬 Background in biological anthropology, human osteology and prehistoric archaeology  
-
----
-
 ## 🚀 Main Projects
 
 ### 🏛️ PaleoHumans - Digital Platform for Upper Palaeolithic Human Remains
@@ -87,25 +64,7 @@ Offline-first Android app for recording archaeological excavation data directly 
 - Added validation logic to reduce recording mistakes and preserve archaeological data integrity.
 - Designed for real fieldwork contexts where internet connection may be limited or unavailable.
 
-📲 Google Play release in progress
-
----
-
-## 📚 Scientific Publications
-
-Co-author of peer-reviewed scientific work on Upper Palaeolithic human remains, dental anthropology and Late Glacial hunter-gatherer populations.
-
-📄 Arenas del Amo, S., Armentano Oller, N., Daura, J., & Sanz Borràs, M. (2024). *Overview of the European Upper Palaeolithic: the Homo sapiens bone record*. Journal of Archaeological Science: Reports, 53, Article 104391. [https://doi.org/10.1016/j.jasrep.2024.104391](https://doi.org/10.1016/j.jasrep.2024.104391) 
-
-📄 Arenas del Amo, S., López, J. L., Martínez-Moreno, J., & Mora Torcal, R. (2024). *Odontological, pathological and contextual patterns of the Late Glacial human tooth assemblage from Level E at Balma Guilanyà (south-eastern Pyrenees, Iberian Peninsula)*. Archaeological and Anthropological Sciences, 16, Article 147. [https://doi.org/10.1007/s12520-024-02021-5](https://doi.org/10.1007/s12520-024-02021-5) 
-
----
-
-## 🔬 Currently working on
-
-🏛️ PaleoHumans - expanding a research platform for Upper Palaeolithic human remains  
-⛏️ ContextLog - preparing an offline archaeological recording app for Google Play release  
-🏎️ GridView - improving Formula 1 data features and mobile experience 
+📲 Available on [Google Play](https://play.google.com/store/apps/details?id=com.contextlog.app)
 
 ---
 
